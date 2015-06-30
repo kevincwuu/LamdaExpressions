@@ -1,0 +1,54 @@
+Output: 
+
+#1 Results after printing the list of library items: 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: The MazeRunner | ID: 22
+Title: Avengers | ID: 24
+Title: Newest Maxim Edition id
+Title: Newest GQ Edition id
+
+===================================
+
+#2 Results after printing the list of book: 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+[Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard, Title: The Circle by Dave Eggers | Description: A vivid roaring dissent, Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders, Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay]
+
+===================================
+
+#3 Results after printing the list of library items' description: 
+Enchanting novel about a young Wizard
+A vivid roaring dissent
+Harsh words spoken of the greatest among intellecutal leaders
+Fantasy world with polar bears, yay
+The MazeRunner
+Avengers
+Newest Maxim Edition
+Newest GQ Edition
+
+===================================
+
+#4 Results after printing the list of overdue library items: 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+Title: The MazeRunner | ID: 22
+Title: Newest Maxim Edition id
+
+===================================
+
+#5 Results after printing the list of overdue library items: 
+Title: Harry Potter by J.K. Rowling | Description: Enchanting novel about a young Wizard
+Title: The Circle by Dave Eggers | Description: A vivid roaring dissent
+Title: The Open Society and Its Enemies by Karl R. Popper | Description: Harsh words spoken of the greatest among intellecutal leaders
+Title: Cloud Atlas by David Mitchell | Description: Fantasy world with polar bears, yay
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
